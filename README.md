@@ -1,1 +1,1 @@
-AltMobility_DataAnalyst_ASssignment
+AltMobility_DataAnalyst_Assignment
